@@ -1,6 +1,6 @@
 # Excel-Atliq_Hardware_Sales_And_Finance_Performance_Report
 
-An interactive business intelligence dashboard built in Excel for AtliQ Hardware, analyzing Sales, Markets, Products, and Financials across FY 2019–2021. Leveraging Power Query, Power Pivot, and DAX, this solution empowers strategic decision-making through dynamic, visual insights.
+This project presents a comprehensive analysis of AtliQ Hardware’s performance across key business dimensions including sales, market presence, product lines, and financial metrics. Developed entirely in Microsoft Excel, the solution leverages Power Query, Power Pivot, and DAX to enable advanced data modeling and analytics. Covering three fiscal years (2019–2021), the project aims to uncover actionable insights and emerging trends to support data-driven strategic decision-making.
 
 # 🌟 Key Highlights
 
