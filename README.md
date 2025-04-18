@@ -79,29 +79,31 @@ In this project, I built seven comprehensive reports that analyze various busine
   - Top/bottom sellers (quantity & revenue)
 - Detects products with high margins or volume-based profitability.
 - Provides a snapshot of high-growth divisions like PC and P & A.
-Finance Reports
-P&L Monthly Report
-Monthly breakdown of:
-Net Sales
-Cost of Goods Sold (COGS)
-Gross Margin & GM%
-Tracks seasonal trends, quarterly shifts, and cost efficiency.
-P&L Yearly Summary
-Consolidated yearly view of financial health.
-Highlights 204% growth in Net Sales from 2020 to 2021.
-Shows COGS and margins over time, identifying profitability trends.
-GM% by Quarters and Subzones
-Focused on regional profitability trends by subzones (India, ANZ, SE, etc.).
-Indicates steady or declining margins over years, especially in India.
-P&L by Market (2021)
-Country-level analysis of Net Sales, COGS, Gross Margin, and GM%.
-Identifies high-volume but low-margin countries (like India) and premium markets (like New Zealand & UK).
-💡 Key Insights & Takeaways
-Sales Surge: AtliQ experienced 204%+ growth in net sales between 2020 and 2021.
-E-commerce Impact: Platforms like Amazon and Flipkart are top revenue drivers.
-Emerging Customers: Companies like Nova and Chiptec show remarkable growth, presenting investment opportunities.
-Target Misses: Despite large sales, no country exceeded its 2021 targets, indicating potential forecasting or execution issues.
-Product Trends: Products like AQ Mx NB and AQ Smash 2 saw sales boosts over 5000%, suggesting strong market response to select launches.
-Profitability Concerns: Gross Margin % declined slightly over the years, hinting at rising cost pressures or price competition.
-Geographic Performance: India led in sales volume but had a moderate GM%, while countries like New Zealand and Japan showed strong profitability despite smaller revenues.
-Subzone Margins: India’s GM% dropped significantly (42.4% → 32%) from 2019 to 2021, calling for review of pricing or cost structures.
+# Finance Reports
+### P&L Monthly Report
+- Monthly breakdown of:
+  - Net Sales
+  - Cost of Goods Sold (COGS)
+  - Gross Margin & GM%
+- Tracks seasonal trends, quarterly shifts, and cost efficiency.
+### P&L Yearly Summary
+- Consolidated yearly view of financial health.
+- Highlights 204% growth in Net Sales from 2020 to 2021.
+- Shows COGS and margins over time, identifying profitability trends.
+### GM% by Quarters and Subzones
+- Focused on regional profitability trends by subzones (India, ANZ, SE, etc.).
+- Indicates steady or declining margins over years, especially in India.
+### P&L by Market (2021)
+- Country-level analysis of Net Sales, COGS, Gross Margin, and GM%.
+- Identifies high-volume but low-margin countries (like India) and premium markets (like New Zealand & UK).
+
+#💡 Key Insights & Takeaways
+- Sales Surge: AtliQ experienced 204%+ growth in net sales between 2020 and 2021.
+- E-commerce Impact: Platforms like Amazon and Flipkart are top revenue drivers.
+- Emerging Customers: Companies like Nova and Chiptec show remarkable growth, presenting investment opportunities.
+- Target Misses: Despite large sales, no country exceeded its 2021 targets, indicating potential forecasting or execution issues.
+- Product Trends: Products like AQ Mx NB and AQ Smash 2 saw sales boosts over 5000%, suggesting strong market response to select launches.
+- Profitability Concerns: Gross Margin % declined slightly over the years, hinting at rising cost pressures or price competition.
+- Geographic Performance: India led in sales volume but had a moderate GM%, while countries like New Zealand and - 
+- Japan showed strong profitability despite smaller revenues.
+- Subzone Margins: India’s GM% dropped significantly (42.4% → 32%) from 2019 to 2021, calling for review of pricing or cost structures.
