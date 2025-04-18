@@ -97,7 +97,7 @@ In this project, I built seven comprehensive reports that analyze various busine
 - Country-level analysis of Net Sales, COGS, Gross Margin, and GM%.
 - Identifies high-volume but low-margin countries (like India) and premium markets (like New Zealand & UK).
 
-#💡 Key Insights & Takeaways
+# 💡 Key Insights & Takeaways
 - Sales Surge: AtliQ experienced 204%+ growth in net sales between 2020 and 2021.
 - E-commerce Impact: Platforms like Amazon and Flipkart are top revenue drivers.
 - Emerging Customers: Companies like Nova and Chiptec show remarkable growth, presenting investment opportunities.
