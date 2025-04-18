@@ -46,21 +46,6 @@ An interactive business intelligence dashboard built in Excel for AtliQ Hardware
 | Data Augmentation   | Integrated budgets, targets & additional sources for deeper insight |
 
 
-![Alt Text](URL_or_relative_path_to_image)
-
-# 📁 Project Files
-
-📘 AtliQ_Hardware_Report.xlsx – Final BI dashboard
-
-📂 Data Sources – Raw Excel files (Sales, Market, Product, Finance)
-
-📝 Data Model Documentation.pdf – Schema & logic reference
-
-📄 README.md – Project overview
-
-🎞️ dashboard_demo.gif – Demo GIF showing interactivity
-
-
 # 🚧 Report Developed
 In this project, I built seven comprehensive reports that analyze various business dimensions from both sales and finance perspectives:
 
