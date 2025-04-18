@@ -45,7 +45,7 @@ An interactive business intelligence dashboard built in Excel for AtliQ Hardware
 | DAX Calculations    | Built KPIs like YoY Growth %, Market Share, etc.                    |
 | Data Augmentation   | Integrated budgets, targets & additional sources for deeper insight |
 
-![Data Model](images/data-model.png)
+![Data Model](relationship-diagram.png)
 
 # 🚧 Report Developed
 In this project, I built seven comprehensive reports that analyze various business dimensions from both sales and finance perspectives:
