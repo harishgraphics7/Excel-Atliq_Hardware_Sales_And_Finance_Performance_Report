@@ -96,7 +96,7 @@ In this project, I built seven comprehensive reports that analyze various busine
 ### P&L by Market (2021)
 - Country-level analysis of Net Sales, COGS, Gross Margin, and GM%.
 - Identifies high-volume but low-margin countries (like India) and premium markets (like New Zealand & UK).
-
+---
 # 💡 Key Insights & Takeaways
 - Sales Surge: AtliQ experienced 204%+ growth in net sales between 2020 and 2021.
 - E-commerce Impact: Platforms like Amazon and Flipkart are top revenue drivers.
