@@ -45,7 +45,7 @@ This project presents a comprehensive analysis of AtliQ Hardware’s performance
 | DAX Calculations    | Built KPIs like YoY Growth %, Market Share, etc.                    |
 | Data Augmentation   | Integrated budgets, targets & additional sources for deeper insight |
 
-![Data Model](relationship-diagram.png)
+![image alt](https://github.com/harishgraphics7/Excel-Atliq_Hardware_Sales_And_Finance_Performance_Report/blob/24d98b5ecaa31a54e6a957c4fe69e27d74035f30/relationship%20diagram.png)
 
 # 🚧 Report Developed
 In this project, I built seven comprehensive reports that analyze various business dimensions from both sales and finance perspectives:
